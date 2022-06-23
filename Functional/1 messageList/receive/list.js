@@ -56,8 +56,3 @@ formButton.addEventListener("click", function(){
     messageListDiv.appendChild(addMessage(inputForm.value));
     inputForm.value = "";
 })
-
-
-
-
-
