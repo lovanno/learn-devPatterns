@@ -4,8 +4,8 @@ const bobo = {
   lastName: 'Flakes'
 };
 
-const result = upperAndReverseFirstName(bobo);
-console.log({ result })
+/*const result = upperAndReverseFirstName(bobo);
+console.log({ result })*/
 
 //Make a function that uppercases and reverses MULTIPLE names
 const users = [{
