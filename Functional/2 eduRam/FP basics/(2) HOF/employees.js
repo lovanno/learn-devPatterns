@@ -1,4 +1,4 @@
-[
+const employees = [
   {
     "name": "User 1",
     "salary": 55042
