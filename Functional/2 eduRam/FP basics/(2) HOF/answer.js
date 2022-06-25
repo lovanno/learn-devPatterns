@@ -2,7 +2,7 @@ const getSalaries = R.curry(function(employeeList){
   return employeeList.map(obj => obj.salary);
 });
 
-const isBelowSixFigures = number => number < 100000;
+const isAboveSixFigures = number => number > 100000;   
 
 const reject = R.curry(function(condition, elm){
   return elm.filter(condition);
@@ -38,7 +38,7 @@ const toUSD = R.curry(function(number){
 const getMedianSixFigurePaycheck = function(employeeList){
   return R.pipe(
     getSalaries,
-    reject(isBelowSixFigures),
+    reject(isAboveSixFigures),
     median,
     calculateMonthlyPaycheck,
     toUSD

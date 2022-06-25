@@ -1,9 +1,9 @@
-//Exercise 1 - Must be point-free (Uses CartItems Array)
-//EX Use: const price = getTotalPrice(cart); // '$44.20'
+//Exercise 1 - Must be point-free (Uses cartItems Array)
+//EX Use: const price = getTotalPrice(cart); // '$44.20' (This cart answer is not the answer for cartItems)
 const getTotalPrice = () => {};
 
 
-//Exercise 2 - Must be point-free (Uses CartTotal Array)
+//Exercise 2 - Must be point-free (Uses cartTotal Array)
 //EX Use: const cheapestItem = getCheapestItem(cart); // 'apple'
 const getCheapestItem = () => {};
 
