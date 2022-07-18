@@ -1,14 +1,11 @@
-## Sources:
+# Sources: 📚
 
-*No-BS-TS: Jack Herrington*
+**No-BS-TS:** Jack Herrington
 
 https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n
 
 &nbsp;
 
-*type-challenges: Anthony Fu*
+**type-challenges:** Anthony Fu
 
 https://github.com/type-challenges/type-challenges
-
-
-
