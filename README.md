@@ -19,25 +19,25 @@
 
 &nbsp;
 
-## 🗿 Commit Count: 17  🗿
+## 🗿 Commit Count: 18  🗿
 
 ### Author: Erick Lozano 🔱
 
 **Date:**
-*07/17/22*
+*07/18/22*
 
 **Branch:**
-*functional*
+*typescript-mastery*
 
 **Latest Commit:**
-*set up functional branch, renamed folder to reflect js only and added sources*
+*added package.json for ts-nodes logging + finished chal 2 in nobsts + updated readme style*
 
 &nbsp;
 
 ### Branches 🗻
 * main
-* typescript-mastery
-* functional
+* typescript-mastery: 3
+* functional: 15
 
 
 
