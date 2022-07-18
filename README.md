@@ -19,7 +19,7 @@
 
 &nbsp;
 
-## 🗿 Commit Count: 16  🗿
+## 🗿 Commit Count: 17  🗿
 
 ### Author: Erick Lozano 🔱
 
@@ -27,16 +27,18 @@
 *07/17/22*
 
 **Branch:**
-*typescript-mastery*
+*functional*
 
 **Latest Commit:**
-*Added definitions to chal 2 for test purposes*
+*set up functional branch, renamed folder to reflect js only and added sources*
 
 &nbsp;
 
 ### Branches 🗻
 * main
 * typescript-mastery
+* functional
+
 
 
 
