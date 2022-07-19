@@ -19,24 +19,24 @@
 
 &nbsp;
 
-## 🗿 Commit Count: 21  🗿
+## 🗿 Commit Count: 22  🗿
 
 ### Author: Erick Lozano 🔱
 
 **Date:**
-*07/18/22*
+*07/19/22*
 
 **Branch:**
 *typescript-mastery*
 
 **Latest Commit:**
-*added ts-exercises and updated readme*
+*finished type-chal/easy pick-02 exc*
 
 &nbsp;
 
 ### Branches 🗻
 * main
-* typescript-mastery: 6
+* typescript-mastery: 7
 * functional: 15
 
 
