@@ -30,13 +30,13 @@
 *typescript-mastery*
 
 **Latest Commit:**
-*added all easy exc + added order log*
+*added basic and adv challenge exercise 03 from nobsts*
 
 &nbsp;
 
 ### Branches 🗻
 * main
-* typescript-mastery: 4
+* typescript-mastery: 5
 * functional: 15
 
 
