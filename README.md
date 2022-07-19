@@ -30,13 +30,13 @@
 *typescript-mastery*
 
 **Latest Commit:**
-*added package.json for ts-nodes logging + finished chal 2 in nobsts + updated readme style*
+*added all easy exc + added order log*
 
 &nbsp;
 
 ### Branches 🗻
 * main
-* typescript-mastery: 3
+* typescript-mastery: 4
 * functional: 15
 
 
