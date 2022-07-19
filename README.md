@@ -19,7 +19,7 @@
 
 &nbsp;
 
-## 🗿 Commit Count: 18  🗿
+## 🗿 Commit Count: 21  🗿
 
 ### Author: Erick Lozano 🔱
 
@@ -30,13 +30,13 @@
 *typescript-mastery*
 
 **Latest Commit:**
-*added basic and adv challenge exercise 03 from nobsts*
+*added ts-exercises and updated readme*
 
 &nbsp;
 
 ### Branches 🗻
 * main
-* typescript-mastery: 5
+* typescript-mastery: 6
 * functional: 15
 
 
