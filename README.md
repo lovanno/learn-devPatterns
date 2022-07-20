@@ -19,7 +19,7 @@
 
 &nbsp;
 
-## 🗿 Commit Count: 23  🗿
+## 🗿 Commit Count: 24  🗿
 
 ### Author: Erick Lozano 🔱
 
@@ -30,20 +30,20 @@
 *typescript-mastery*
 
 **Latest Commit:**
-*finished type-chal/easy/readonly-03 + tuple-obj-4 exc*
+*finished type-chal/easy/first-array-05 + length-tup-06 exc*
 
 &nbsp;
 
 ### Branches 🗻
 * main
-* typescript-mastery: 8
+* typescript-mastery: 9
 * functional: 15
 
 
 
 
 <!-- Checklog Command 
-updated commitlog 
+git commit -am "updated commitlog 
 
 Get Commit Count:
 git shortlog -s -n --all --no-merges 
