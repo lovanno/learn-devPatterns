@@ -19,24 +19,24 @@
 
 &nbsp;
 
-## 🗿 Commit Count: 26  🗿
+## 🗿 Commit Count: 27  🗿
 
 ### Author: Erick Lozano 🔱
 
 **Date:**
-*07/19/22*
+*07/23/22*
 
 **Branch:**
 *typescript-mastery*
 
 **Latest Commit:**
-*finished type-chal/easy/if-09 + concat-10 exc*
+*finished type-chal/easy/includes-11 exc*
 
 &nbsp;
 
 ### Branches 🗻
 * main
-* typescript-mastery: 11
+* typescript-mastery: 12
 * functional: 15
 
 
