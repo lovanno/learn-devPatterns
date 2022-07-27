@@ -70,15 +70,21 @@ https://ghaiklor.github.io/type-challenges-solutions/en/medium-type-lookup.html
 
 &nbsp;
 
-**11: Trim**
+&nbsp;
 
-https://github.com/type-challenges/type-challenges/blob/main/questions/00108-medium-trim/README.md
-https://ghaiklor.github.io/type-challenges-solutions/en/medium-trim.html
+# m11-20 🔱
 
-**12: Trim Left**
+**11: Trim Left**
 
 https://github.com/type-challenges/type-challenges/blob/main/questions/00106-medium-trimleft/README.md
 https://ghaiklor.github.io/type-challenges-solutions/en/medium-trimleft.html
+
+&nbsp;
+
+**12: Trim**
+
+https://github.com/type-challenges/type-challenges/blob/main/questions/00108-medium-trim/README.md
+https://ghaiklor.github.io/type-challenges-solutions/en/medium-trim.html
 
 &nbsp;
 
@@ -137,6 +143,10 @@ https://github.com/type-challenges/type-challenges/blob/main/questions/00527-med
 https://ghaiklor.github.io/type-challenges-solutions/en/medium-append-to-object.html
 
 &nbsp;
+
+&nbsp;
+
+# m21-30 🔱
 
 **21: Absolute**
 
@@ -207,6 +217,10 @@ https://github.com/type-challenges/type-challenges/blob/main/questions/01367-med
 https://ghaiklor.github.io/type-challenges-solutions/en/medium-remove-index-signature.html
 
 &nbsp;
+
+&nbsp;
+
+# m31-40 🔱
 
 **31: Percentage Parser**
 
@@ -279,6 +293,10 @@ https://ghaiklor.github.io/type-challenges-solutions/en/medium-omitbytype.html
 
 &nbsp;
 
+&nbsp;
+
+# m41-50 🔱
+
 **41: ObjectEntries**
 
 https://github.com/type-challenges/type-challenges/blob/main/questions/02946-medium-objectentries/README.md
@@ -349,6 +367,10 @@ https://github.com/type-challenges/type-challenges/issues?q=label%3A4182+label%3
 
 &nbsp;
 
+&nbsp;
+
+# m51-60 🔱
+
 **51: AllCombinations**
 
 https://github.com/type-challenges/type-challenges/blob/main/questions/04260-medium-nomiwase/README.md
@@ -418,6 +440,10 @@ https://github.com/type-challenges/type-challenges/blob/main/questions/05153-med
 https://github.com/type-challenges/type-challenges/blob/main/questions/05153-medium-indexof/README.md
 
 &nbsp;
+
+&nbsp;
+
+# m61-68 🔱
 
 **61: Join**
 
