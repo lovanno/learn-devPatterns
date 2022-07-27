@@ -19,7 +19,7 @@
 
 &nbsp;
 
-## 🗿 Commit Count: 30  🗿
+## 🗿 Commit Count: 31  🗿
 
 ### Author: Erick Lozano 🔱
 
@@ -27,10 +27,10 @@
 *07/26/22*
 
 **Branch:**
-*typescript-mastery*
+*exc-typescript-mastery*
 
 **Latest Commit:**
-*Incl'd solutions to orderlog in type-chal and added medium exc orderlog*
+*removed solved solutions and created practice branch for typescript-mastery*
 
 &nbsp;
 
@@ -39,6 +39,7 @@
 * typescript-mastery: 15
 * functional: 15
 
+* exc-typescript-mastery: 1
 
 
 
