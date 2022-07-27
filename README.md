@@ -19,24 +19,24 @@
 
 &nbsp;
 
-## 🗿 Commit Count: 29  🗿
+## 🗿 Commit Count: 30  🗿
 
 ### Author: Erick Lozano 🔱
 
 **Date:**
-*07/23/22*
+*07/26/22*
 
 **Branch:**
 *typescript-mastery*
 
 **Latest Commit:**
-*finished type-chal/easy/param-14 exc*
+*Incl'd solutions to orderlog in type-chal and added medium exc orderlog*
 
 &nbsp;
 
 ### Branches 🗻
 * main
-* typescript-mastery: 14
+* typescript-mastery: 15
 * functional: 15
 
 
