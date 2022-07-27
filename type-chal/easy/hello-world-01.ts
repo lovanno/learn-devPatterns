@@ -2,6 +2,3 @@
 
 //Exercise: expected to be string
 //type HelloWorld = any
-
-//Answer
-type HelloWorld = string
