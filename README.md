@@ -19,7 +19,7 @@
 
 &nbsp;
 
-## 🗿 Commit Count: 34 🗿
+## 🗿 Commit Count: 35 🗿
 
 ### Author: Erick Lozano 🔱
 
@@ -30,13 +30,13 @@
 *typescript-mastery*
 
 **Latest Commit:**
-*revised type-chal folder name order + added hard exc orderlog*
+*finished adding type-chal/03-hard exc + fixed typo in link in 0h-order.md*
 
 &nbsp;
 
 ### Branches 🗻
 * main
-* typescript-mastery: 17
+* typescript-mastery: 18
 * functional: 15
 
 * exc-typescript-mastery: 2
