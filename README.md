@@ -19,24 +19,24 @@
 
 &nbsp;
 
-## 🗿 Commit Count: 31  🗿
+## 🗿 Commit Count: 32 🗿
 
 ### Author: Erick Lozano 🔱
 
 **Date:**
-*07/26/22*
+*07/27/22*
 
 **Branch:**
-*exc-typescript-mastery*
+*typescript-mastery*
 
 **Latest Commit:**
-*removed solved solutions and created practice branch for typescript-mastery*
+*finished adding type-chal-medium exc and revised file name for order*
 
 &nbsp;
 
 ### Branches 🗻
 * main
-* typescript-mastery: 15
+* typescript-mastery: 16
 * functional: 15
 
 * exc-typescript-mastery: 1
