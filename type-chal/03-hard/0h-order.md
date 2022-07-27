@@ -9,7 +9,7 @@ https://github.com/type-challenges/type-challenges/issues?q=label%3A6+label%3Aan
 
 **02: Currying 1**
 
-https://github.com/type-challenges/type-challenges/issues?q=label%3A6+label%3Aanswer
+https://github.com/type-challenges/type-challenges/blob/main/questions/00017-hard-currying-1/README.md
 https://github.com/type-challenges/type-challenges/issues?q=label%3A17+label%3Aanswer
 
 &nbsp;
