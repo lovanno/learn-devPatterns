@@ -19,7 +19,7 @@
 
 &nbsp;
 
-## 🗿 Commit Count: 39 🗿
+## 🗿 Commit Count: 40 🗿
 
 ### Author: Erick Lozano 🔱
 
@@ -27,16 +27,16 @@
 *07/27/22*
 
 **Branch:**
-*exc-typescript-mastery*
+*typescript-mastery*
 
 **Latest Commit:**
-*added type-chal/04-extreme exc to practice branch*
+*finished type-chal/04-medium/01-return-types + 02-omit exc*
 
 &nbsp;
 
 ### Branches 🗻
 * main
-* typescript-mastery: 20
+* typescript-mastery: 21
 * functional: 15
 
 * exc-typescript-mastery: 4
